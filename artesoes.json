@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "Eliene Queiroz",
+    "descricao": "Artesã do LN Artes, trabalha com costura criativa, pintura em tecido  e biscuit para lembrancinhas e topos de bolo",
+    "foto": "assets/a_01.png"
+  },
+  {
+    "id": 2,
+    "nome": "Antônia da Silva",
+    "descricao": "Utiliza o e.v.a como matéria prima para criar arranjos de flores decorativos e personalizar artigos, como canetas para brindes",
+    "foto": "assets/a_02.png"
+  },
+  {
+    "id": 3,
+    "nome": "Rosana Pereira",
+    "descricao": "Artesã do Rosana Crochê, possui mais de 10 anos de experiência com o crochê, produzindo peças variadas de uso doméstico, decoração e vestuário",
+    "foto": "assets/a_03.png"
+  },
+  {
+    "id": 4,
+    "nome": "Claudiana Sousa",
+    "descricao": "Trabalha com crochê, costura criativa de tapetes e tricô.",
+    "foto": "assets/a_04.png"
+  },
+  {
+    "id": 5,
+    "nome": "Berilene Matos",
+    "descricao": "Sua especialização é o crochê, atende a diferentes nichos, como enxoval para casa, enxoval infantil, decoração e arte sacra",
+    "foto": "assets/a_05.png"
+  },
+  {
+    "id": 6,
+    "nome": "Isabel Sousa",
+    "descricao": "Se encontrou na arte do crochê durante a pandemia e hoje produz peças variadas para maternidade e cozinha, tendo foco na decoração. Um dos principais trabalhos oferecidos são os jogos de mesa em crochê e os amigurumis infantis.",
+    "foto": "assets/a_06.png"
+  },
+  {
+    "id": 7,
+    "nome": "Antônia Formiga",
+    "descricao": "Artesã de mão cheia, produz diversas peças em crochê, bordado livre, bordado com fitas, macramé, ponto cruz e até reciclagem. Seus principais produtos são as toalhas decoradas",
+    "foto": "assets/a_07.png"
+  },
+  {
+    "id": 8,
+    "nome": "Débora Bernardo",
+    "descricao": "É profissional na arte do feltro, confeccionando peças temáticas para festas, maternidade e educação. Seus trabalhos mais comuns são os personagens em feltro, pingentes, fantoches e jogos educativos.",
+    "foto": "assets/a_08.png"
+  },
+  {
+    "id": 9,
+    "nome": "Lívia Teixeira",
+    "descricao": "Bordadeira, utiliza a técnica do bordado livre para produzir peças autorais para casamento e maternidade. Seus principais trabalhos são os porta alianças e porta maternidade.",
+    "foto": "assets/a_09.png"
+  }
+]
