@@ -1,31 +1,31 @@
 [
   {
     "id": 1,
-    "nome": "Flores de EVA",
+    "nome": "Flores de EVA decorativas",
     "descricao": "Arranjos decorativos e artigos personalizados, como canetas para brindes, feitos à mão com E.V.A.",
     "foto": "assets/produtos/p_01.png"
   },
   {
     "id": 2,
-    "nome": "Crochê para Casa",
+    "nome": "Peças de Crochê para Casa",
     "descricao": "Peças variadas de uso doméstico, decoração e jogos de mesa produzidos com técnicas de crochê e tricô.",
     "foto": "assets/produtos/p_02.png"
   },
   {
     "id": 3,
-    "nome": "Enxoval Infantil",
+    "nome": "Enxoval Infantil Crochê e Feltro",
     "descricao": "Peças delicadas para maternidade, enxoval infantil e amigurumis criativos feitos em crochê e feltro.",
     "foto": "assets/produtos/p_03.png"
   },
   {
     "id": 4,
-    "nome": "Bordados Autorais",
+    "nome": "Bordados Autorais Personalizados",
     "descricao": "Toalhas decoradas, porta alianças e itens para casamento utilizando bordado livre, ponto cruz e macramé.",
     "foto": "assets/produtos/p_04.png"
   },
   {
     "id": 5,
-    "nome": "Bonecas de Feltro",
+    "nome": "Bonecas/Personagens de Feltro",
     "descricao": "Personagens, fantoches e bonecos confeccionados em feltro para festas e educação.",
     "foto": "assets/produtos/p_05.png"
   },
@@ -37,13 +37,13 @@
   },
   {
     "id": 7,
-    "nome": "Bonecos de Crochê",
+    "nome": "Bonecos/Personagens de Crochê",
     "descricao": "Personagens e figuras feitas com crochê",
     "foto": "assets/produtos/p_07.png"
   },
   {
     "id": 8,
-    "nome": "Toalhas Decoradas",
+    "nome": "Toalhas e Panos Decorados",
     "descricao": "Peças de bordado livre, bordado com fitas, macramé, ponto cruz",
     "foto": "assets/produtos/p_08.png"
   }
