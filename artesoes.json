@@ -52,6 +52,44 @@
     "nome": "Lívia Teixeira",
     "descricao": "Bordadeira, utiliza a técnica do bordado livre para produzir peças autorais para casamento e maternidade. Seus principais trabalhos são os porta alianças e porta maternidade.",
     "foto": "assets/a_09.png"
+  },
+  {
+    "id": 10,
+    "nome": "Marizinha Correia",
+    "descricao": "Crocheteira experiente, trabalha com diversos fios na criação de jogos de mesa e enxoval para casa em geral. Seus principais trabalhos são os souplat para mesa posta personalizados.",
+    "foto": "assets/a_10.png"
+  },
+  {
+    "id": 11,
+    "nome": "Eliane Araújo",
+    "descricao": "Artesã do Eliane Araújo Artes e Mimos, é experiente na criação de bonecas de pano personalizadas, elementos em feltro, tiaras e acessórios de cabelo para festas e uso em geral.",
+    "foto": "assets/a_11.png"
+  },
+  {
+    "id": 12,
+    "nome": "Delma Costa",
+    "descricao": "Especialista em crochê, pedrarias e na confecção de colares de mesa, quadros artesanais e suplats, suas peças se destacam pela delicadeza",
+    "foto": "assets/a_12.png"
+  },
+  {
+    "id": 13,
+    "nome": "Ritinha Sousa",
+    "descricao": "Artesã do Ritinha Artes e Mimos, atende ao público infantil ao infanto juvenil. Seus principais trabalhos são os laços e tiaras de fitas, sapatinhos em crochê com apliques e kit maternidade personalizado em pedrarias.",
+    "foto": "assets/a_13.png"
+  },
+  {
+    "id": 14,
+    "nome": "Zilnar de Lima",
+    "descricao": "Artesã do T&Z Artes, Zilnar produz variados trabalhos em difer técnicas para casa e enxoval. Seus principais produtos são os panos de prato e lenços bordados à mão e costura criativa geral com o uso de pedrarias, como nas suas toalhas e protetores de jarras.",
+    "foto": "assets/a_14.png"
+  },
+
+  {
+    "id": 15,
+    "nome": "Aparecida Bernardo",
+    "descricao": "Trabalha com peças decorativas e customizadas em e.v.a, como em pesos de porta e jarros. Na costura criativa, seus principais trabalhos são as toucas e scrunchies em cetim para cabelo. ",
+    "foto": "assets/a_15.png"
   }
+
 
 ]
